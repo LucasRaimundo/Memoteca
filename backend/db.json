@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "que bom que veio",
+      "autoria": "lucas",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "Mockado",
+      "autoria": "lucas",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular",
+      "autoria": "lucas",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Testando novo pensamento criado",
+      "autoria": "Dev",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Testando a rota depois de adicionar pensamentos",
+      "autoria": "Lucas",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
